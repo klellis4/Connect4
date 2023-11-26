@@ -1,7 +1,5 @@
 # Connect4
 
-For SER 216 Spring 2019
-
 Gameplay should be launched from Connect4TextConsole. 
 The server is launched from Connect4TextConsole, but the client(s) have to be launched manually.
 
